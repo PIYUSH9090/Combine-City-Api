@@ -1,6 +1,6 @@
 echo >&2 '
 ***************
-*** Lets deleting createCluster.sh ***
+*** Lets deleting deletingCluster.sh ***
 ***************
 '
  >&2
